@@ -1,0 +1,16 @@
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+.settings/
+.project
+.classpath
+.springBeans
+target/
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
